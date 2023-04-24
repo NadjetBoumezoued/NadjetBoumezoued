@@ -1,11 +1,12 @@
-### Hi there👋 
+### Hi there 👋
+   I'am Nadjet Boumezoued Software engineer, Big data and  Business intelligence enthousist <br>
   🔭 I’m currently working on my Final year project , Content creation 
   <br>
   🌱 I’m currently learning Business intelligence
   <br>
-  💬 Ask me about Web developement 
+  💬 Ask me about Web developement
   <br>
-  📫 How to reach me:
+  📫 How to reach me: <br>
   Gmail : boumezoued.nadjet@gmail.com<br>
   Linkedin : [Linkdin](https://www.linkedin.com/in/nadjet-boumezoued-460bb61ba/)<br>
   Portfolio : [My portfolio](https://nadjetbm.netlify.app/)<br>
