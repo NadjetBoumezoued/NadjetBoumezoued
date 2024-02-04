@@ -1,8 +1,8 @@
 ### Hi there 👋
-   I'am Nadjet Boumezoued Software engineer, Big data and  Business intelligence enthousist <br><br>
+   I'am Nadjet Boumezoued Software engineer, Big data and  AI enthousist <br><br>
   🔭 I’m currently working on my Final year project , Content creation 
   <br><br>
-  🌱 I’m currently learning Business intelligence
+  🌱 I’m currently learning AI
   <br><br>
   💬 Ask me about Web developement
   <br><br>
